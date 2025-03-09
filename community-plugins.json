@@ -11918,7 +11918,7 @@
         "name": "Tars",
         "author": "Tarslab",
         "description": "Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.",
-        "repo": "TarsLab/obsidian-tars"
+        "repo": "TarsLab/obsidian-tars",
     },
     {
         "id": "toggle-readable-line-length",
